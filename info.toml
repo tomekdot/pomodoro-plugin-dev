@@ -1,0 +1,6 @@
+[meta]
+name = "Pomodoro Timer"
+author = "tomekdot"
+version = "1.0.0"
+category = "Overlay"
+main = "Main.as"

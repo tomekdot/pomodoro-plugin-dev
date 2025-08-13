@@ -1,0 +1,17 @@
+# Build artifacts
+*.op
+*.zip
+*.7z
+*.rar
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Environment variables
+.env
