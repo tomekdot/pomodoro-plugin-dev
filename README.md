@@ -64,6 +64,12 @@ MIT License - feel free to modify and distribute!
 
 Found a bug or have a feature request? Feel free to open an issue or submit a pull request!
 
+## Authors
+
+This plugin is developed and maintained by: 
+
+vitalism-creative
+
 ---
 
 **Happy Pomodoro-ing! 🍅⏰**
